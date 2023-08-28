@@ -1,8 +1,9 @@
-smooth scrolling ✅
-    attach loco scroll css ✅
-    attach locomotive scroll min js ✅
-    some code from loco github for js ✅
+🚀 Just launched my Product portfolio project! 🎉
 
-gsap
-    attach gsap
-scrolltrigger
+Excited to share my latest Product portfolio project! 🎉 🌟 Check it out here: 
+
+✅ Responsive Design ✅ Interactive UI ✅ Smooth Animations 
+
+Kudos to the React community for the inspiration! Open to feedback and opportunities. Let's connect! 🙌
+
+#ReactJS #PortfolioProject #WebDev
